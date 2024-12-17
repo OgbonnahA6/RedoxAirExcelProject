@@ -8,38 +8,38 @@ ________________________________________
 - **Overall Operations Overview**
   - **Total Revenue: $531,225,803**.
   - **Total Flights: 9,636**.
-•	Most Common Aircraft:
-o	B737: 4,459 flights (46.3%).
-o	A319: 3,879 flights.
-o	A320: High-ticket value aircraft with a max average price of $5,500.
-•	Top Route by Flights: ORD-LAX with 699 flights.
-•	Key Seasonal Insight: June emerges as the most popular month for ORD-FLL (26 flights).
-Actionable Insights:
-1.	Aircraft Utilization:
-o	Prioritize A320 on high-revenue routes (e.g., ORD-LAX) to maximize its premium ticket potential.
-o	Optimize B737 operations by deploying them on routes with stable demand and cost-efficient flight patterns.
-2.	Revenue Growth:
-o	Focus on top routes like ORD-LAX, ORD-SFO, and ORD-DEN for capacity expansion and targeted fare optimization.
+- **Most Common Aircraft:**
+  - **B737: 4,459 flights (46.3%)**.
+  - **A319: 3,879 flights**.
+  - **A320:** High-ticket value aircraft with a max average price of **$5,500**.
+  - **Top Route by Flights:** ORD-LAX with 699 flights.
+  - **Key Seasonal Insight: June** emerges as the most popular month for ORD-FLL **(26 flights)**.
+- **Actionable Insights:**
+  - **1.	Aircraft Utilization:**
+    - Prioritize A320 on high-revenue routes (e.g., ORD-LAX) to maximize its premium ticket potential.
+    - Optimize B737 operations by deploying them on routes with stable demand and cost-efficient flight patterns.
+- **2.	Revenue Growth:**
+  - Focus on top routes like ORD-LAX, ORD-SFO, and ORD-DEN for capacity expansion and targeted fare optimization.
 ________________________________________
-2. Route Performance Analysis
-Top Profitable Routes
-1.	ORD-LAX: $51M revenue with 699 flights – the most profitable route.
-2.	ORD-SFO: $47M, closely following ORD-LAX.
-3.	ORD-DEN: $38M.
-4.	ORD-JFK: $34M.
-5.	ORD-ATL: $32M.
-These routes collectively contribute over 25% of the airline’s total revenue, underlining their critical role in profitability.
-Low-Yield Routes
-•	ORD-CLT: $25,842 (lowest revenue yield).
-•	ORD-DTW: $23,689.
-•	ORD-MSP: $23,865.
-Actionable Insights:
-1.	Expand Top Routes:
-o	Increase flight frequencies on high-revenue routes like ORD-LAX and ORD-SFO.
-o	Deploy high-capacity aircraft like A320 for premium pricing opportunities.
-2.	Optimize Low-Yield Routes:
-o	Evaluate passenger demand and operational costs on ORD-CLT, ORD-DTW, and ORD-MSP.
-o	Introduce dynamic pricing strategies and marketing campaigns to improve load factors and yield.
+## 2. Route Performance Analysis
+- **Top Profitable Routes**
+  - **1.	ORD-LAX: $51M revenue with 699 flights** – the most profitable route.
+  - **2.	ORD-SFO: $47M**, closely following ORD-LAX.
+  - **3.	ORD-DEN: $38M**.
+  - **4.	ORD-JFK: $34M**.
+  - **5.	ORD-ATL: $32M**.
+These routes collectively contribute over **25%** of the airline’s total revenue, underlining their critical role in profitability.
+- **Low-Yield Routes**
+  - **ORD-CLT: $25,842** (lowest revenue yield).
+  - **ORD-DTW: $23,689**.
+  - **ORD-MSP: $23,865**.
+- **Actionable Insights:**
+  - **1.	Expand Top Routes:**
+  - Increase flight frequencies on high-revenue routes like ORD-LAX and ORD-SFO.
+  - Deploy high-capacity aircraft like A320 for premium pricing opportunities.
+  - **2.	Optimize Low-Yield Routes:**
+  - Evaluate passenger demand and operational costs on ORD-CLT, ORD-DTW, and ORD-MSP.
+  - Introduce dynamic pricing strategies and marketing campaigns to improve load factors and yield.
 ________________________________________
 3. Seasonal Trends and Flight Frequency
 Seasonal Route Insights
