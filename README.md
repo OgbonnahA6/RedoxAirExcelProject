@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/355ba228-b599-4d5f-b252-fe14f52a0fdd)
 
 # REDOX Airlines Operations Analysis Report
 ________________________________________
