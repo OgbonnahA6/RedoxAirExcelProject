@@ -42,36 +42,36 @@ These routes collectively contribute over **25%** of the airline’s total reven
   - Evaluate passenger demand and operational costs on ORD-CLT, ORD-DTW, and ORD-MSP.
   - Introduce dynamic pricing strategies and marketing campaigns to improve load factors and yield.
 ________________________________________
-3. Seasonal Trends and Flight Frequency
-Seasonal Route Insights
-•	ORD-PHL Route:
-o	Peak Flights: June (32) and November (33).
-o	Lowest Flights: March (17).
-•	ORD-FLL Route:
-o	June is the most popular month with 26 flights.
-Insights:
-•	Demand peaks during summer (June-July) and pre-holiday months (October-November).
-•	Low-demand periods like March and September require targeted interventions to boost passenger load factors.
-Actionable Recommendations:
-1.	Peak Season Optimization:
-o	Increase flight frequency and deploy larger aircraft during high-demand months.
-2.	Low-Demand Promotions:
-o	Offer discounted fares, bundled packages, or loyalty rewards to stimulate bookings in off-peak months.
+## 3. Seasonal Trends and Flight Frequency
+- **Seasonal Route **
+  - **ORD-PHL Route:**
+  - **Peak Flights: June** (32) and November (33).
+  - **Lowest Flights: March** (17).
+  - **ORD-FLL Route:**
+  - June is the most popular month with 26 flights.
+- **Insights:**
+  - Demand peaks during summer (June-July) and pre-holiday months (October-November).
+  - Low-demand periods like March and September require targeted interventions to boost passenger load factors.
+- **Actionable Recommendations:**
+- **1.	Peak Season Optimization:**
+  - Increase flight frequency and deploy larger aircraft during high-demand months.
+- **2.	Low-Demand Promotions:**
+  - Offer discounted fares, bundled packages, or loyalty rewards to stimulate bookings in off-peak months.
 ________________________________________
-4. Fleet Utilization Analysis
-Aircraft Distribution
-•	B737: 4,459 flights – the workhorse of operations.
-•	A319: 3,879 flights.
-•	A320: Limited use despite its premium revenue potential ($5,500 avg ticket price).
-Insights:
-•	The B737 is overutilized, which may lead to increased maintenance costs and fuel consumption.
-•	Underutilization of A320 limits revenue opportunities on premium-demand routes.
-Actionable Recommendations:
-1.	Strategic Deployment of A320:
-o	Allocate A320 to high-yield routes like ORD-LAX and ORD-SFO.
-2.	B737 Efficiency Optimization:
-o	Monitor fuel costs and operational efficiency to ensure sustainable performance.
-o	Deploy B737 on routes with consistent demand to maximize its utilization.
+## 4. Fleet Utilization Analysis
+- **Aircraft Distribution**
+  - **B737: 4,459** flights – the workhorse of operations.
+  - **A319: 3,879** flights.
+  - **A320:** Limited use despite its premium revenue potential ($5,500 avg ticket price).
+- **Insights:**
+  - The **B737** is overutilized, which may lead to increased maintenance costs and fuel consumption.
+  - Underutilization of **A320** limits revenue opportunities on premium-demand routes.
+- **Actionable Recommendations:**
+  - **1.	Strategic Deployment of A320:**
+    - Allocate **A320** to high-yield routes like ORD-LAX and ORD-SFO.
+  - **2.	B737 Efficiency Optimization:**
+  - Monitor fuel costs and operational efficiency to ensure sustainable performance.
+  - Deploy **B737** on routes with consistent demand to maximize its utilization.
 ________________________________________
 5. Route-Specific Insights
 ORD-LAX Route Analysis
