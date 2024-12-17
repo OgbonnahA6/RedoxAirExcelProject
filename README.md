@@ -21,6 +21,8 @@ ________________________________________
     - Optimize B737 operations by deploying them on routes with stable demand and cost-efficient flight patterns.
 - **2.	Revenue Growth:**
   - Focus on top routes like ORD-LAX, ORD-SFO, and ORD-DEN for capacity expansion and targeted fare optimization.
+    
+    ![image](https://github.com/user-attachments/assets/3f08686c-7456-4e41-9151-046557a2ebc1)
 ________________________________________
 ## 2. Route Performance Analysis
 - **Top Profitable Routes**
@@ -72,6 +74,9 @@ ________________________________________
   - **2.	B737 Efficiency Optimization:**
   - Monitor fuel costs and operational efficiency to ensure sustainable performance.
   - Deploy **B737** on routes with consistent demand to maximize its utilization.
+ 
+    ![image](https://github.com/user-attachments/assets/193ecde5-ae1b-49cb-806f-7669b0164d06)
+
 ________________________________________
 ## 5. Route-Specific Insights
 - **ORD-LAX Route Analysis**
